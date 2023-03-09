@@ -18,7 +18,7 @@ function requestFullScreen() {
 
 
 function playFailSound() {
-  $('body').append('<audio preload="auto" autoplay><source src="/hacks/fullscreen-api-attack/sound/mario-death.mp3" /><source src="/hacks/fullscreen-api-attack/sound/mario-death.ogg" /></audio>');
+  $('body').append('<audio preload="auto" autoplay><source src="./assets/sound/witchy-cackle-140925.mp3" /><source src="./assets/sound/witchy-cackle-140925.mp3" /></audio>');
 }
 
 
